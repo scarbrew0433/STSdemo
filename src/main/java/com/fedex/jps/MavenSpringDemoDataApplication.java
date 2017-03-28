@@ -10,5 +10,7 @@ public class MavenSpringDemoDataApplication {
 		SpringApplication.run(MavenSpringDemoDataApplication.class, args);
 		System.out.println("FINISHED");
 		System.out.println("REALLY FINISHED");
+		System.out.println("HOTFIX FINISHED");
+		
 	}
 }
