@@ -10,6 +10,7 @@ public interface TopicRepository extends CrudRepository <Topic, String> {
 	//added custom method to find Topic by name using Crud
 	public <List> void findByName(String name);
 	public <List> void findByDescription(String desc);
+	public <List> void findById(String id);
 	
 	//these normal type methods are all included in the CrudRepository
 	//  so, there is no need to build them again
