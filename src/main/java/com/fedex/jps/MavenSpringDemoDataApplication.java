@@ -9,5 +9,6 @@ public class MavenSpringDemoDataApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MavenSpringDemoDataApplication.class, args);
 		System.out.println("FINISHED");
+		System.out.println("REALLY FINISHED");
 	}
 }
