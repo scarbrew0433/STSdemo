@@ -13,6 +13,7 @@ public class MavenSpringDemoDataApplication {
 		System.out.println("HOTFIX FINISHED");
 		System.out.println("HOTFIX 2 FINISHED");
 		System.out.println("BugFix12 Finished");
+		System.out.println("BugFix121 Finished");
 		
 	}
 }
